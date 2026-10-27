@@ -1,0 +1,11 @@
+# Pinned for Python 3.11. If pip reports a conflict on your machine,
+# run `pip freeze` in a working venv and paste the versions here.
+numpy==1.26.4
+scipy==1.11.4
+pandas==2.2.2
+matplotlib==3.8.4
+librosa==0.10.2.post1
+soundfile==0.12.1
+audioread==3.0.1
+streamlit==1.40.2
+pyarrow==17.0.0
