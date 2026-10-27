@@ -1,6 +1,6 @@
 # 🎵 Mini Shazam: Audio Fingerprinting from Scratch
 
-**[▶ Live demo](https://audio-fingerprinting-pkv.streamlit.app)** &nbsp;|&nbsp; Python · NumPy · SciPy · Streamlit
+**[▶ Live demo](https://audio-fingerprinting-uzv6d6h2pfjxyaqeciwpm2.streamlit.app)** &nbsp;|&nbsp; Python · NumPy · SciPy · Streamlit
 
 
 ## Problem
